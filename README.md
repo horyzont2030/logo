@@ -2,7 +2,7 @@
 
 # Logo horyzont 2030
 
-# Font
+## Font
 Font in use <a target="_blank" href="https://www.fontspring.com/fonts/abstrkt/vremena">vremenagroteskbook</a> designed by
 <a target="_blank" href="">ABSTRKT</a>
 and licensed under
@@ -10,28 +10,30 @@ and licensed under
   Icon Designed by
   <a target="_blank" href="https://thenounproject.com/yardenoon">Yarden Gilboa</a>
   
-# Colors
+## Colors
 
 
 
-Font
-#6D3D02
-+
-
-Slogan
-#ffffff
+### Font
+  
+    #6D3D02
 
 
-Background
-#FFFFFF, #FEB300
+### Slogan
+  
+    #ffffff
+
+### Background
+  
+    #FFFFFF, #FEB300
+
+### Icon
+  
+    #ffffff
 
 
-Icon
-#ffffff
 
-
-
-# Logo
+## Logo images
 
 ## 1
 ![1/cover.png](1/cover.png)
