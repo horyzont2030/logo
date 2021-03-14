@@ -1,5 +1,6 @@
-# logo
-Logo horyzont 2030
+[horyzont2030.pl - O projekcie horyzont2030](http://www.horyzont2030.pl/)
+
+# Logo horyzont 2030
 
 # Font
 Font in use <a target="_blank" href="https://www.fontspring.com/fonts/abstrkt/vremena">vremenagroteskbook</a> designed by
