@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: vremenagroteskbook
+font link: https://www.fontspring.com/fonts/abstrkt/vremena?utm_source=fontsquirrel.com&utm_medium=download_link&utm_campaign=vremena-grotesk#firstfreeproduct
+font author: ABSTRKT
+font author site: 
+
+
+icon designer: Yarden Gilboa
+icon designer link: /yardenoon
+        
+
+fontColor: {"hex":"#ffffff"}
+bgColor: {"gradient-0":"#FFFFFF","gradient-1":"#FEB300"}
+iconColor: {"hex":"#ffffff"}
+
+      
